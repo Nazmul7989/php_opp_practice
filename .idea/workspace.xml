@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a07c8217-4f7e-4909-a329-757d7a0fd281" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/class/School.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accessModifier/MyClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constructor/School.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/destructor/School.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647058825014</updated>
-      <workItem from="1647058827571" duration="1008000" />
+      <workItem from="1647058827571" duration="3094000" />
     </task>
     <servers />
   </component>
@@ -71,9 +73,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1647059401805">
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1647060974136">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1647059401805" />
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1647060974136" />
   </component>
 </project>
