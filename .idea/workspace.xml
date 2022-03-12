@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a07c8217-4f7e-4909-a329-757d7a0fd281" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/traits/MyTraits.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/traits/Myname.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/StaticClass.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647058825014</updated>
-      <workItem from="1647058827571" duration="7565000" />
+      <workItem from="1647058827571" duration="8407000" />
     </task>
     <servers />
   </component>
@@ -75,9 +75,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="109" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1647066979759" />
-    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1647067094371">
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1647067409147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1647067094371" />
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1647067409147" />
   </component>
 </project>
