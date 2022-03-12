@@ -4,11 +4,11 @@ class School{
 
     public function getSchoolName()
     {
-        echo "Narayan kandi High School";
+        echo "Narayan kandi High SchoolClass";
     }
 
 }
 
-$school = new School();
+$school = new SchoolClass();
 
 $school->getSchoolName();

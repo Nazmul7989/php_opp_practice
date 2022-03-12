@@ -17,4 +17,4 @@ class School{
 
 }
 
-new School("Narayan kandi High School");
+new SchoolClass("Narayan kandi High SchoolClass");

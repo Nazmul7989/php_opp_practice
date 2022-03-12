@@ -23,7 +23,7 @@ class MyClass{
 $newObject = new MyClass();
 
 $newObject->setName('Nazmul Hasan');
-$newObject->setSchoolName('Narayan kandi High School');
+$newObject->setSchoolName('Narayan kandi High SchoolClass');
 $newObject->setVillageName('Narayan kandi');
 echo $newObject->name;
 //echo $newObject->schoolName; // error-> because protected access modifier can not be accessed outside this class and its inheritance;
